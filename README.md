@@ -12,6 +12,10 @@ Developed by Captain-Akshay
 * Invoke & Spawn Actor  
 * Tests & Typescript
 
+---------------------------------
+
+_You can find the Notes based on the video_
+
 ## Chapter 1 - States, State-Machine, Actor-Modal
 
 ## Chapter 2 - Xstate, Simple Machine, Simple Actor (with starter terminology)
